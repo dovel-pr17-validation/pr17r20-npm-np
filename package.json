@@ -73,7 +73,7 @@
 		"@sindresorhus/is": "^8.1.0",
 		"@types/semver": "^7.8.0",
 		"common-tags": "^1.8.2",
-		"esmock": "^2.7.6",
+		"esmock": "^3.0.0",
 		"fs-extra": "^11.4.1",
 		"map-obj": "^6.0.0",
 		"sinon": "^22.1.0",
