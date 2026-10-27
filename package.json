@@ -39,7 +39,7 @@
 		"cli-truncate": "^6.1.1",
 		"clipboardy": "^5.3.2",
 		"cosmiconfig": "^10.0.1",
-		"del": "^8.0.1",
+		"del": "^9.0.1",
 		"escape-goat": "^4.0.0",
 		"execa": "^10.0.1",
 		"exit-hook": "^5.1.0",
